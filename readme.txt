@@ -16,7 +16,7 @@ Project Time:
 1. First I have created an Dynamic Web Project
 2. Convert to Maven
 3. Install Angular 2 For Eclipse
-4. Right Click above the project and I have choosen "show in terminal" to make angular 2 Client.
+4. Create new angular 2 Project.
 5. JAVA EE part with RestFul web service took me about 4 hours.
 6. Angular 2 Client has taken 4 days about 4 hours in day.
 
