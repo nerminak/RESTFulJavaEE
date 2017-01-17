@@ -43,7 +43,7 @@ To Run this project:
                 
 	</datasource>
 2. First you run this project in Wildfly server( you should see an Hello World)
-3. After this you should run this project as ng serve.
+3. After this you should run Angular2Client project as ng serve.
 4. you should see an login page:
 username is: Nermina
 password is: 123
